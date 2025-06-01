@@ -32,8 +32,11 @@
     "@babel/plugin-proposal-decorators": "^7.27.1",
     "@ember/optional-features": "^2.2.0",
     "@ember/test-helpers": "^5.2.1",
+    "@embroider/compat": "^3.0.0",
+    "@embroider/core": "^3.0.0",
     "@embroider/macros": "^1.17.2",
     "@embroider/router": "^3.0.1",
+    "@embroider/webpack": "^3.0.0",
     "@eslint/js": "^9.25.1",
     "@glimmer/component": "^2.0.0",
     "@glimmer/tracking": "^1.1.2",
@@ -75,7 +78,7 @@
     "stylelint": "^16.19.1",
     "stylelint-config-standard": "^36.0.1",
     "tracked-built-ins": "^3.4.0",
-    "webpack": "^5.99.7"
+    "webpack": "^5.99.9"
   },
   "engines": {
     "node": ">= 18"
