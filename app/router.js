@@ -1,4 +1,4 @@
-import EmberRouter from '@ember/routing/router';
+import EmberRouter from '@embroider/router';
 import config from 'my-fancy-app65-novite/config/environment';
 
 export default class Router extends EmberRouter {
